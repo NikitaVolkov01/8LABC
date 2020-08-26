@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-07-26T20:35:13</date>
+  <millis>1595784913400</millis>
+  <sequence>0</sequence>
+  <logger>exchange.Client</logger>
+  <level>FINEST</level>
+  <class>exchange.Client</class>
+  <method>connect</method>
+  <thread>15</thread>
+  <message>Соединение установлено.</message>
+</record>
+<record>
+  <date>2020-07-26T20:35:25</date>
+  <millis>1595784925302</millis>
+  <sequence>1</sequence>
+  <logger>exchange.Client</logger>
+  <level>FINEST</level>
+  <class>exchange.Client</class>
+  <method>close</method>
+  <thread>15</thread>
+  <message>Сокет успешно закрыт</message>
+</record>
